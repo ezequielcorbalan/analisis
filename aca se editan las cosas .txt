@@ -1,2 +1,114 @@
-asdasdasd
-azssadads qweeqw
+Diccionario de datos
+*Almacenamientos:
+1) -Nombre: Facturas
+-Campos:
+2) -Nombre: Pagos al contado
+-Campos:
+3) -Nombre:Cuenta corriente
+-Campos:
+4) -Nombre: Órdenes anuladas
+-Campos:
+5) -Nombre: Stock
+-Campos:
+6) -Nombre: Pedidos
+-Campos:
+7) -Nombre: Pedidos pendientes
+-Campos:
+8) -Nombre: Vendedores
+-Campos:
+9) -Nombre: Clientes
+-Campos:
+
+*Flujos de datos
+1) -Nombre: Autorización
+-Campos:
+-Origen:
+-Destino:
+2) -Nombre: Cliente
+-Campos:
+-Origen:
+-Destino:
+3) -Nombre: Factura
+-Campos:
+-Origen:
+-Destino:
+4) -Nombre: Factura anulada
+-Campos:
+-Origen:
+-Destino:
+5) -Nombre: Factura no ok
+-Campos:
+-Origen:
+-Destino:
+6) -Nombre: Factura ok
+-Campos:
+-Origen:
+-Destino:
+7) -Nombre: Factura ok ok
+-Campos:
+-Origen:
+-Destino:
+8) -Nombre: Factura rechazada
+-Campos:
+-Origen:
+-Destino:
+9) -Nombre: Factura sellada
+-Campos:
+-Origen:
+-Destino:
+10) -Nombre: Forma de pago
+-Campos:
+-Origen:
+-Destino:
+11) -Nombre: Id
+-Campos:
+-Origen:
+-Destino:
+12) -Nombre: Límite de pago
+-Campos:
+-Origen:
+-Destino:
+13) -Nombre: No ok
+-Campos:
+-Origen:
+-Destino:
+14) -Nombre: Nota de pedido
+-Campos:
+-Origen:
+-Destino:
+15) -Nombre: Nota pedido pendiente
+-Campos:
+-Origen:
+-Destino:
+16) -Nombre: Ok
+-Campos:
+-Origen:
+-Destino:
+17) -Nombre: Orden anulación
+-Campos:
+-Origen:
+-Destino:
+18) -Nombre: Pago contado
+-Campos:
+-Origen:
+-Destino:
+19) -Nombre: Pago cuenta corriente
+-Campos:
+-Origen:
+-Destino:
+20) -Nombre: Pedido
+-Campos:
+-Origen:
+-Destino:
+21) -Nombre: Pedido Pendiente
+-Campos:
+-Origen:
+-Destino:
+22) -Nombre: Respuesta
+-Campos:
+-Origen:
+-Destino:
+23) -Nombre: Stock
+-Campos:
+-Origen:
+-Destino:
